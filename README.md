@@ -14,10 +14,8 @@
 **If you want to contact me for anything, feel free to ask.**
 
 > [!NOTE]
-> I am not currently working at Lucky Intelligence and Gamership.
+> I am not currently working at `Lucky Intelligence ` and `Gamership `.
 
 > Fullstack Developer since 2023
-
-GitHub DIscord<sub>Northsoft</sub>
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
