@@ -18,4 +18,5 @@
 
 > Fullstack Developer since 2023
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Northsoft Page](https://github.com/NorthsoftDevelopment)
+[Northsoft Discord]()
